@@ -50,7 +50,7 @@ const NoticiasProvider = ({children}) => {
         noticias,
         totalNoticias,
         handleChangePagina,
-        pagina
+        pagina 
       }}
     >
       {children}
